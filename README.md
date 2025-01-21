@@ -1,4 +1,6 @@
  Documentation: Movie Rating System 
+
+ 
  Overview
 
 This project is a simple movie rating system built using Python's `tkinter` library. Users can rate movies, calculate their average ratings, and view all ratings. The application also visually represents the average rating using stars.
